@@ -1,0 +1,35 @@
+1 ans . A function is a block of code designed to perform a particular task. The function is executed when it is invoked.
+              syntax: function functuioName(parameter1,parameter2......parametern){
+                body of function};
+
+2ans. List of instructions to be executed by computer, these programming instructions are called statement.It consist of values,keywords,operators etc.
+
+3ans. Loop are  used to iterate a piece of code used using while ,Forwhile,dowhile or for in while.
+           ex:loop to add even nos:
+                  let i=1
+                 fOR(I=1; I<=10; I++){
+                 IF (I%2==0)}
+
+4ans.  a variable is a container to store values.in java script we can store variables with const, let and var keyword.
+
+5ans.  const price1 = 5;
+  const price2 = 6;
+let total = price1 + price2;
+
+6ans there are 8 types of objects in java script:
+           number,null ,undefined,boolean,string,symbol,object,bigint.
+           and one special type is object data type.
+
+7ans. (a) unary +
+let x = 10;
+let y = +x;
+
+console.log(y); // 10
+(b)unary negation-
+
+8ans.  function square(){
+return };
+
+9ans. it returns all the element with a particular class.
+
+10 ans. we can use const,var and let keywords
